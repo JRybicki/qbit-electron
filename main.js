@@ -5,6 +5,7 @@
 //
 // Update your own IP address and login info right below here
 //
+// setup directory with "npm init" then "npm install electron --save-dev"
 // run with "npm run start"
 //
 // Author - Jeremy R.
